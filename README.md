@@ -4,6 +4,9 @@
 
 The **Job Portal** is a modern, full-stack web application designed to help job seekers find their ideal opportunities. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this platform provides an intuitive interface for browsing, searching, and applying to job listings across various industries and locations.
 
+![Uploading image.png…]()
+
+
 ### Key Highlights
 - 🔍 **Smart Search**: Search jobs by title, location, or company name
 - 📱 **Responsive Design**: Seamless experience across desktop, tablet, and mobile devices
