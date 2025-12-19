@@ -1,0 +1,835 @@
+[
+  {
+    "jobId": "33411379",
+    "title": "SAP Project Manager",
+    "company": "Executive Softway Guild India Private Limited",
+    "location": "Hyderabad, Bengaluru",
+    "description": "Seeking an experienced SAP Project Manager to lead SAP implementation projects and manage cross-functional teams.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "foundit",
+    "experienceRange": "10-20 years",
+    "qualifications": [
+      "10+ years of experience in SAP project management",
+      "Strong understanding of SAP modules and implementation methodologies",
+      "Proven track record of managing large-scale SAP projects",
+      "Excellent stakeholder management skills",
+      "PMP or similar certification preferred"
+    ],
+    "responsibilities": [
+      "Lead SAP implementation and upgrade projects",
+      "Manage project timelines, budgets, and resources",
+      "Coordinate with business stakeholders and technical teams",
+      "Ensure project deliverables meet quality standards",
+      "Mitigate risks and resolve project issues"
+    ],
+    "salary": "Competitive"
+  },
+  {
+    "jobId": "4106589701",
+    "title": "System Engineer",
+    "company": "SystematizeHA",
+    "location": "Bengaluru, Karnataka, India",
+    "description": "Looking for a System Engineer to manage and maintain IT infrastructure and provide technical support.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Knowledge of operating systems (Windows, Linux)",
+      "Understanding of networking concepts",
+      "Good problem-solving abilities",
+      "Strong communication skills"
+    ],
+    "responsibilities": [
+      "Install, configure, and maintain systems",
+      "Provide technical support to users",
+      "Monitor system performance",
+      "Troubleshoot hardware and software issues",
+      "Document system configurations and procedures"
+    ],
+    "salary": "Entry level"
+  },
+  {
+    "jobId": "4106588777",
+    "title": "PLSQL Developer (Flexcube)",
+    "company": "Oracle",
+    "location": "Pune, Maharashtra, India",
+    "description": "Seeking a skilled PLSQL Developer with Flexcube experience to develop and maintain banking applications.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong experience in PL/SQL development",
+      "Hands-on experience with Oracle Flexcube",
+      "Knowledge of banking domain",
+      "Experience with performance tuning",
+      "Understanding of software development lifecycle"
+    ],
+    "responsibilities": [
+      "Develop and maintain PL/SQL code for Flexcube applications",
+      "Write complex queries and stored procedures",
+      "Optimize database performance",
+      "Collaborate with business analysts",
+      "Support production systems"
+    ],
+    "salary": "₹8-18 LPA"
+  },
+  {
+    "jobId": "4107523236",
+    "title": "Senior Data Analyst",
+    "company": "KPMG",
+    "location": "New Delhi, Delhi, India",
+    "description": "Join KPMG as a Senior Data Analyst to drive data-driven insights for consulting projects.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong analytical and statistical skills",
+      "Proficiency in SQL, Python, or R",
+      "Experience with data visualization tools",
+      "Excellent presentation skills",
+      "Consulting experience preferred"
+    ],
+    "responsibilities": [
+      "Analyze complex datasets",
+      "Create insightful reports and dashboards",
+      "Present findings to clients",
+      "Develop data-driven recommendations",
+      "Mentor junior analysts"
+    ],
+    "salary": "₹10-20 LPA"
+  },
+  {
+    "jobId": "4108105284",
+    "title": "Information Technology Business Analyst",
+    "company": "Electronikmedia (EM)",
+    "location": "Kochi, Kerala, India",
+    "description": "Seeking an IT Business Analyst to bridge the gap between business needs and technical solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Bachelor's degree in IT or Business Administration",
+      "Strong requirements gathering skills",
+      "Knowledge of business analysis methodologies",
+      "Experience with SDLC",
+      "Excellent documentation skills"
+    ],
+    "responsibilities": [
+      "Gather and document business requirements",
+      "Create functional specifications",
+      "Facilitate workshops with stakeholders",
+      "Support system implementation",
+      "Perform user acceptance testing"
+    ],
+    "salary": "₹8-15 LPA"
+  },
+  {
+    "jobId": "4106593331",
+    "title": "Wordpress Developer",
+    "company": "Key Carrier Management Service Pvt. Ltd.",
+    "location": "Ahmedabad, Gujarat, India",
+    "description": "Looking for a WordPress Developer to create and maintain custom WordPress websites.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Strong knowledge of WordPress",
+      "Proficiency in PHP, HTML, CSS, JavaScript",
+      "Experience with WordPress themes and plugins",
+      "Understanding of responsive design",
+      "Good problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop custom WordPress themes",
+      "Customize existing themes and plugins",
+      "Optimize website performance",
+      "Maintain website security",
+      "Troubleshoot website issues"
+    ],
+    "salary": "₹3-6 LPA"
+  },
+  {
+    "jobId": "4108101598",
+    "title": "Full Stack Developer",
+    "company": "Geval6 Inc",
+    "location": "Pune, Maharashtra, India",
+    "description": "Seeking a Full Stack Developer to build scalable web applications using modern technologies.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Knowledge of MERN/MEAN stack",
+      "Understanding of frontend and backend development",
+      "Familiarity with version control (Git)",
+      "Good coding practices",
+      "Willingness to learn new technologies"
+    ],
+    "responsibilities": [
+      "Develop web applications",
+      "Write clean, maintainable code",
+      "Collaborate with team members",
+      "Participate in code reviews",
+      "Debug and fix issues"
+    ],
+    "salary": "₹4-8 LPA"
+  },
+  {
+    "jobId": "4108102439",
+    "title": "Network Engineer",
+    "company": "Sonata Software",
+    "location": "Chennai, Tamil Nadu, India",
+    "description": "Join our team as a Network Engineer to design, implement, and maintain network infrastructure.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong knowledge of networking protocols",
+      "Experience with routers, switches, firewalls",
+      "CCNA or CCNP certification preferred",
+      "Understanding of network security",
+      "Good troubleshooting skills"
+    ],
+    "responsibilities": [
+      "Design and implement network solutions",
+      "Configure network devices",
+      "Monitor network performance",
+      "Troubleshoot network issues",
+      "Ensure network security"
+    ],
+    "salary": "₹6-12 LPA"
+  },
+  {
+    "jobId": "4108102409",
+    "title": "Infrastructure Validation Engineer",
+    "company": "Lakarya",
+    "location": "India",
+    "description": "Seeking an Infrastructure Validation Engineer to test and validate infrastructure solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Knowledge of infrastructure testing",
+      "Understanding of virtualization technologies",
+      "Familiarity with automation tools",
+      "Good analytical skills",
+      "Attention to detail"
+    ],
+    "responsibilities": [
+      "Validate infrastructure configurations",
+      "Perform compatibility testing",
+      "Document test results",
+      "Report and track issues",
+      "Work with engineering teams"
+    ],
+    "salary": "₹5-10 LPA"
+  },
+  {
+    "jobId": "4108106015",
+    "title": "Information Technology Marketing Manager",
+    "company": "DevRabbit IT Solutions",
+    "location": "Hyderabad, Telangana, India",
+    "description": "Looking for an IT Marketing Manager to drive marketing strategies for IT solutions and services.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong experience in IT marketing",
+      "Knowledge of digital marketing",
+      "Excellent communication skills",
+      "Understanding of IT industry",
+      "Experience with marketing automation tools"
+    ],
+    "responsibilities": [
+      "Develop marketing strategies",
+      "Manage digital campaigns",
+      "Create marketing content",
+      "Analyze campaign performance",
+      "Coordinate with sales teams"
+    ],
+    "salary": "₹8-15 LPA"
+  },
+  {
+    "jobId": "32318505",
+    "title": "Senior Business Analyst",
+    "company": "Company name confidential",
+    "location": "Ahmedabad, Bengaluru",
+    "description": "Join a leading organization as a Senior Business Analyst to analyze business processes and recommend improvements.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "foundit",
+    "experienceRange": "4-9 years",
+    "qualifications": [
+      "Strong analytical and problem-solving skills",
+      "Experience in requirements gathering",
+      "Knowledge of business analysis tools",
+      "Excellent documentation skills",
+      "Strong stakeholder management"
+    ],
+    "responsibilities": [
+      "Analyze business requirements",
+      "Create detailed specifications",
+      "Facilitate workshops",
+      "Support implementation",
+      "Perform gap analysis"
+    ],
+    "salary": "Competitive"
+  },
+  {
+    "jobId": "4106591549",
+    "title": "Network Engineer",
+    "company": "PURVIEW",
+    "location": "Bengaluru, Karnataka, India",
+    "description": "Entry-level Network Engineer position to support network infrastructure and operations.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Basic networking knowledge",
+      "Understanding of TCP/IP",
+      "Familiarity with network devices",
+      "Good learning attitude",
+      "Team player"
+    ],
+    "responsibilities": [
+      "Support network operations",
+      "Assist in network troubleshooting",
+      "Maintain network documentation",
+      "Monitor network performance",
+      "Learn from senior engineers"
+    ],
+    "salary": "₹3-5 LPA"
+  },
+  {
+    "jobId": "4108105296",
+    "title": "Business Analyst",
+    "company": "TalenTown Recruitment Agency - IT",
+    "location": "Istanbul, Türkiye",
+    "description": "Seeking a Business Analyst to work on IT projects and bridge business and technical requirements.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "2-5 years",
+    "qualifications": [
+      "Business analysis experience",
+      "Requirements gathering skills",
+      "Understanding of SDLC",
+      "Good communication skills",
+      "Analytical mindset"
+    ],
+    "responsibilities": [
+      "Gather business requirements",
+      "Create functional specifications",
+      "Support project teams",
+      "Perform testing",
+      "Document processes"
+    ],
+    "salary": "Competitive"
+  },
+  {
+    "jobId": "4108394281",
+    "title": "SAP FICO FICA Consultant",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "description": "Join Deloitte as an SAP FICO FICA Consultant to implement and support SAP Finance solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong SAP FICO FICA experience",
+      "Implementation and support experience",
+      "Knowledge of utilities industry",
+      "Excellent client-facing skills",
+      "Consulting experience"
+    ],
+    "responsibilities": [
+      "Implement SAP FICO FICA solutions",
+      "Configure SAP modules",
+      "Support client requirements",
+      "Conduct workshops",
+      "Provide training"
+    ],
+    "salary": "₹12-25 LPA"
+  },
+  {
+    "jobId": "4106589608",
+    "title": "Automation Engineer",
+    "company": "iBase-t",
+    "location": "Ahmedabad, Gujarat, India",
+    "description": "Seeking an Automation Engineer to develop and maintain test automation frameworks.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong automation testing experience",
+      "Knowledge of automation tools",
+      "Programming skills (Java/Python)",
+      "Understanding of CI/CD",
+      "Good analytical skills"
+    ],
+    "responsibilities": [
+      "Develop automation frameworks",
+      "Create automated test scripts",
+      "Execute automated tests",
+      "Maintain automation infrastructure",
+      "Report test results"
+    ],
+    "salary": "₹8-15 LPA"
+  },
+  {
+    "jobId": "4106591415",
+    "title": "Associate-CyberARK PAM & PIM",
+    "company": "Kyndryl India",
+    "location": "Noida, Uttar Pradesh, India",
+    "description": "Entry-level position for CyberARK PAM & PIM support and administration.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Basic knowledge of CyberARK",
+      "Understanding of PAM concepts",
+      "Good learning attitude",
+      "Team player",
+      "Problem-solving skills"
+    ],
+    "responsibilities": [
+      "Support CyberARK administration",
+      "Assist in PAM operations",
+      "Handle access requests",
+      "Maintain documentation",
+      "Learn CyberARK modules"
+    ],
+    "salary": "₹4-7 LPA"
+  },
+  {
+    "jobId": "4106588665",
+    "title": "Senior Agent-CyberARK PAM & PIM",
+    "company": "Kyndryl India",
+    "location": "Noida, Uttar Pradesh, India",
+    "description": "Senior-level CyberARK PAM & PIM specialist to manage privileged access management solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong CyberARK experience",
+      "PAM implementation expertise",
+      "Security best practices knowledge",
+      "Leadership skills",
+      "Client-facing experience"
+    ],
+    "responsibilities": [
+      "Manage CyberARK infrastructure",
+      "Implement PAM solutions",
+      "Troubleshoot complex issues",
+      "Mentor junior team members",
+      "Support client requirements"
+    ],
+    "salary": "₹10-18 LPA"
+  },
+  {
+    "jobId": "4106594147",
+    "title": "Senior Agent-CyberARK PAM & PIM",
+    "company": "Kyndryl India",
+    "location": "Noida, Uttar Pradesh, India",
+    "description": "Senior-level CyberARK PAM & PIM specialist to manage privileged access management solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong CyberARK experience",
+      "PAM implementation expertise",
+      "Security best practices knowledge",
+      "Leadership skills",
+      "Client-facing experience"
+    ],
+    "responsibilities": [
+      "Manage CyberARK infrastructure",
+      "Implement PAM solutions",
+      "Troubleshoot complex issues",
+      "Mentor junior team members",
+      "Support client requirements"
+    ],
+    "salary": "₹10-18 LPA"
+  },
+  {
+    "jobId": "4106593134",
+    "title": "Technical and Security System - Web Proxy Skyhigh L2 Specialist",
+    "company": "Kyndryl India",
+    "location": "Sadar, Uttar Pradesh, India",
+    "description": "L2 Specialist for Web Proxy and Skyhigh security solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Knowledge of web proxy solutions",
+      "Understanding of Skyhigh",
+      "Security concepts knowledge",
+      "Good troubleshooting skills",
+      "Team collaboration"
+    ],
+    "responsibilities": [
+      "Support web proxy operations",
+      "Handle security incidents",
+      "Troubleshoot issues",
+      "Maintain security systems",
+      "Document procedures"
+    ],
+    "salary": "₹5-9 LPA"
+  },
+  {
+    "jobId": "4107798988",
+    "title": "Full Stack Lead - MEAN/MERN",
+    "company": "VOLANSYS (An ACL Digital Company)",
+    "location": "Ahmedabad, Gujarat, India",
+    "description": "Lead position for Full Stack development using MEAN/MERN stack technologies.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong MEAN/MERN stack expertise",
+      "Team leadership experience",
+      "Architectural design skills",
+      "Excellent problem-solving",
+      "Mentoring abilities"
+    ],
+    "responsibilities": [
+      "Lead development teams",
+      "Design system architecture",
+      "Code reviews",
+      "Mentor developers",
+      "Deliver quality solutions"
+    ],
+    "salary": "₹12-22 LPA"
+  },
+  {
+    "jobId": "4106594242",
+    "title": "Lead Quality Assurance Tester",
+    "company": "SHRIRAM GENERAL INSURANCE CO. LTD.",
+    "location": "India",
+    "description": "Lead QA position to manage testing activities and ensure quality deliverables.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong QA experience",
+      "Test automation expertise",
+      "Team leadership",
+      "Insurance domain knowledge",
+      "ISTQB certification preferred"
+    ],
+    "responsibilities": [
+      "Lead testing activities",
+      "Create test strategies",
+      "Manage QA team",
+      "Ensure quality standards",
+      "Report to stakeholders"
+    ],
+    "salary": "₹10-18 LPA"
+  },
+  {
+    "jobId": "4108103105",
+    "title": "QA- Manhattan Active Omni",
+    "company": "KHEY DiGiT",
+    "location": "Hyderabad, Telangana, India",
+    "description": "QA position for Manhattan Active Omni platform testing.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "Basic QA knowledge",
+      "Manhattan Active Omni familiarity",
+      "Good analytical skills",
+      "Learning attitude",
+      "Team collaboration"
+    ],
+    "responsibilities": [
+      "Test Manhattan Active Omni",
+      "Execute test cases",
+      "Log defects",
+      "Support testing activities",
+      "Maintain test documentation"
+    ],
+    "salary": "₹6-10 LPA"
+  },
+  {
+    "jobId": "4108103341",
+    "title": "MS Dynamics Testing Engineer",
+    "company": "Prontoex Consulting Services Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "description": "Testing engineer for Microsoft Dynamics applications.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "MS Dynamics testing experience",
+      "Functional and regression testing",
+      "Test case design",
+      "Good domain knowledge",
+      "Automation experience preferred"
+    ],
+    "responsibilities": [
+      "Test MS Dynamics applications",
+      "Create test scenarios",
+      "Execute test cycles",
+      "Report defects",
+      "Support UAT"
+    ],
+    "salary": "₹8-14 LPA"
+  },
+  {
+    "jobId": "4108102346",
+    "title": "Data Analyst(max 6k SAR)",
+    "company": "Aura Solutions",
+    "location": "Riyadh, Saudi Arabia",
+    "description": "Data Analyst position for Saudi Arabia location.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "2-5 years",
+    "qualifications": [
+      "Data analysis experience",
+      "SQL and Excel proficiency",
+      "Visualization tools knowledge",
+      "Good communication",
+      "Analytical mindset"
+    ],
+    "responsibilities": [
+      "Analyze data",
+      "Create reports",
+      "Support business decisions",
+      "Maintain dashboards",
+      "Present insights"
+    ],
+    "salary": "Max 6k SAR"
+  },
+  {
+    "jobId": "4108386882",
+    "title": "QAQC Manager",
+    "company": "Egis",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "description": "QAQC Manager position for construction/engineering projects in Saudi Arabia.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong QA/QC experience",
+      "Construction/engineering domain",
+      "Quality standards knowledge",
+      "Leadership skills",
+      "Saudi experience preferred"
+    ],
+    "responsibilities": [
+      "Manage QA/QC activities",
+      "Ensure quality compliance",
+      "Conduct audits",
+      "Lead QA/QC team",
+      "Report to management"
+    ],
+    "salary": "Competitive (Saudi Arabia)"
+  },
+  {
+    "jobId": "4106586899",
+    "title": "Presales Consultant",
+    "company": "Bellurbis",
+    "location": "Gurugram, Haryana, India",
+    "description": "Presales Consultant to support sales with technical expertise and solutions.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "2-5 years",
+    "qualifications": [
+      "Presales experience",
+      "Technical knowledge",
+      "Excellent presentation skills",
+      "Solution design ability",
+      "Customer-facing skills"
+    ],
+    "responsibilities": [
+      "Support sales activities",
+      "Create technical proposals",
+      "Conduct product demos",
+      "Design solutions",
+      "Respond to RFPs"
+    ],
+    "salary": "₹6-12 LPA"
+  },
+  {
+    "jobId": "4108391529",
+    "title": "Javascript Fullstack Engineer - Tech Lead",
+    "company": "Lumenalta",
+    "location": "Romania",
+    "description": "Tech Lead position for JavaScript full-stack development.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong JavaScript expertise",
+      "Full-stack experience",
+      "Leadership skills",
+      "Architectural knowledge",
+      "Agile experience"
+    ],
+    "responsibilities": [
+      "Lead technical teams",
+      "Design architecture",
+      "Code reviews",
+      "Mentor developers",
+      "Deliver projects"
+    ],
+    "salary": "Competitive (Remote)"
+  },
+  {
+    "jobId": "4106588715",
+    "title": "Dot Net Core Developer",
+    "company": "QntmLogic, LLC.",
+    "location": "Pune, Maharashtra, India",
+    "description": ".NET Core Developer to build enterprise applications.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong .NET Core experience",
+      "C# programming",
+      "Web API development",
+      "Database knowledge",
+      "Azure experience preferred"
+    ],
+    "responsibilities": [
+      "Develop .NET applications",
+      "Design APIs",
+      "Write clean code",
+      "Optimize performance",
+      "Support production"
+    ],
+    "salary": "₹10-18 LPA"
+  },
+  {
+    "jobId": "4108395014",
+    "title": "Quality Assurance Analyst",
+    "company": "White Force Group",
+    "location": "Bengaluru, Karnataka, India",
+    "description": "QA Analyst to ensure software quality through testing.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "QA experience",
+      "Manual and automation testing",
+      "Test planning",
+      "Defect management",
+      "SDLC knowledge"
+    ],
+    "responsibilities": [
+      "Create test plans",
+      "Execute tests",
+      "Log defects",
+      "Regression testing",
+      "Quality reporting"
+    ],
+    "salary": "₹8-14 LPA"
+  },
+  {
+    "jobId": "4108392365",
+    "title": "Javascript Fullstack Engineer - Senior",
+    "company": "Lumenalta",
+    "location": "Poland",
+    "description": "Senior JavaScript full-stack engineer for remote work.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong JavaScript skills",
+      "Full-stack development",
+      "Frontend and backend expertise",
+      "Cloud experience",
+      "Remote work experience"
+    ],
+    "responsibilities": [
+      "Develop full-stack applications",
+      "Write quality code",
+      "Collaborate remotely",
+      "Code reviews",
+      "Deliver features"
+    ],
+    "salary": "Competitive (Remote)"
+  },
+  {
+    "jobId": "4106590467",
+    "title": "MERN Stack & Electron.js Developer",
+    "company": "webintegratorz technologies",
+    "location": "Indore, Madhya Pradesh, India",
+    "description": "Developer for MERN stack and Electron.js applications.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "0-2 years",
+    "qualifications": [
+      "MERN stack knowledge",
+      "Electron.js basics",
+      "JavaScript proficiency",
+      "Good learning attitude",
+      "Team player"
+    ],
+    "responsibilities": [
+      "Develop MERN applications",
+      "Build Electron.js apps",
+      "Write clean code",
+      "Collaborate with team",
+      "Learn new technologies"
+    ],
+    "salary": "₹3-6 LPA"
+  },
+  {
+    "jobId": "4106593088",
+    "title": "Senior Full-Stack Web Developer",
+    "company": "Datasys Consulting and Software Inc.",
+    "location": "Chennai, Tamil Nadu, India",
+    "description": "Senior full-stack developer to build web applications.",
+    "employmentType": "Full-time",
+    "postedDate": "2024-12-23",
+    "source": "linkedin",
+    "experienceRange": "5-10 years",
+    "qualifications": [
+      "Strong full-stack experience",
+      "Multiple tech stack knowledge",
+      "Leadership abilities",
+      "Problem-solving skills",
+      "Client-facing experience"
+    ],
+    "responsibilities": [
+      "Develop web applications",
+      "Lead development",
+      "Code reviews",
+      "Mentor team",
+      "Deliver projects"
+    ],
+    "salary": "₹12-20 LPA"
+  }
+]
+
