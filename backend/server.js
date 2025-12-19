@@ -8,21 +8,9 @@ dotenv.config();
 
 const app = express();
 
-// Middleware - CORS configuration
+// Middleware - CORS configuration (allow all origins for now)
 app.use(cors({
-  origin: function(origin, callback) {
-    // Allow requests with no origin (mobile apps, Postman, etc.)
-    if (!origin) return callback(null, true);
-    
-    // Allow all Vercel preview and production URLs
-    if (origin.endsWith('.vercel.app') || 
-        origin === 'http://localhost:3000' || 
-        origin === 'http://localhost:5000') {
-      callback(null, true);
-    } else {
-      callback(null, true); // Allow all origins in production (or restrict as needed)
-    }
-  },
+  origin: true,
   credentials: true
 }));
 
