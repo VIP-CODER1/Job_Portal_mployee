@@ -41,10 +41,6 @@ const JobDetails = ({ job, user }) => {
     });
   };
 
-  const handleApply = () => {
-    setShowModal(true);
-  };
-
   return (
     <div className="overflow-y-auto max-h-[calc(100vh-140px)] pr-2">
       {/* Header */}
