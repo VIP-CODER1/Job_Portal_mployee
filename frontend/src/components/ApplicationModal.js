@@ -85,7 +85,8 @@ const ApplicationModal = ({ job, user, isOpen, onClose }) => {
       formDataToSend.append('email', formData.email);
       formDataToSend.append('resume', formData.resume);
 
-      const response = await fetch('http://localhost:5000/api/applications', {
+      const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+      const response = await fetch(`${API_URL}/applications`, {
         method: 'POST',
         body: formDataToSend
       });
